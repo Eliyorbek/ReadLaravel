@@ -1,0 +1,23 @@
+table tr th{
+    text-transform: capitalize;
+}
+table tr td{
+    text-transform: capitalize;
+}
+
+.modalShow{
+    z-index:6 !important;
+    position: absolute;
+    left: 50%;
+    top: -50px;
+    transform: translateX(-50%);
+    background-color:white;
+    width: 600px;
+    padding: 5px;
+    border-radius:20px;
+}
+
+
+
+
+
